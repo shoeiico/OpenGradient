@@ -59,3 +59,6 @@ variable: [[0.00007465136877726763]]
   While time-based features are included, the model may not always capture the effects of market shifts during unusual times, such as during sudden news events or high-impact announcements.
 * **Non-stationarity of Cryptocurrency Markets**:
   Cryptocurrency markets are volatile and non-stationary, meaning patterns identified in historical data may not always hold in the future.
+
+## Link:     
+https://hub.opengradient.ai/models/shoeiico/og_modelthon_xgb_btcusdt_1hour_return
